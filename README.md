@@ -5,7 +5,7 @@
 Profissional com mais de 10 anos de experiência sustentando ambientes corporativos híbridos (Linux e Windows Server), redes e segurança perimetral. Focado em alta disponibilidade, mitigação de vulnerabilidades, automação de rotinas e conformidade operacional.
 
 📍 Luanda, Angola  
-🔗 [LinkedIn](https://www.linkedin.com/in/leopoldinopaulochalambua/) | ✉️ [seu-email@dominio.com](mailto:leopaulo.chalambua@outlook.pt)
+🔗 [LinkedIn](https://www.linkedin.com/in/leopoldinopaulochalambua/) | ✉️ [Meu endereço](mailto:leopaulo.chalambua@outlook.pt)
 
 ---
 
